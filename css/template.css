@@ -1,0 +1,31 @@
+#menucima{
+	background-image: url('../images/grass.jpg');
+	background-repeat: no-repeat;
+	height:37px;
+	width:930px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#menuitems{
+	background-image: url('../images/menu_bcg.jpg');
+	background-repeat: no-repeat;
+	height:29px;
+	width:930px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#menu {
+	padding-top:20px;
+	padding-bottom:20px;
+}
+
+#promo1, #promo2{
+	padding-left:10px;
+}
+
+#item_menu_lateral{
+	padding-top:10px;
+}
+

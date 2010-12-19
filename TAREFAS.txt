@@ -1,0 +1,7 @@
+Lista de coisas importantes a retocar:
+
+1 -- menucima e menuitems aumentar a imagens uns px para ficar do tamanho do container (photoshop)
+
+2 -- editar a imagem grass.jpg para tirar o cinzento do sombreado
+
+3 -- mudar o logotipo, claro o manita ate desenha bons logos mas em papel assim nao dá!!!
